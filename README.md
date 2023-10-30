@@ -41,10 +41,15 @@
   &nbsp;   
   
   [Documentação Python](https://docs.python.org/pt-br/3/tutorial/)
+
+  [Documentação Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
   
+  [Documentação Numpy](https://numpy.org/doc/1.26/user/index.html#user)
+
+  [Documentação Statistics](https://docs.python.org/pt-br/dev/library/statistics.html)
+
+
   [Udemy - Formação Cientista de Dados (Fernando Amaral)](https://www.udemy.com/course/cientista-de-dados/)
-
-
 
  </details>
    
